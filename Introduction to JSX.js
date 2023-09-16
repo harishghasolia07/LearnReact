@@ -1,9 +1,9 @@
-JSX-JSX stands for JavaScript XML. JSX allows us to write HTML in React. JSX makes it easier to write and add HTML in React.
-ReactDOM.render(What to show,Where to show)-
-We can use the ReactDOM. render() in the application using the declaration of HTML code and the HTML element. The goal of this function is to represent the imposed HTML code within the specified HTML element tags. It helps to redirect the HTML page with the help of the render() function.
-Render method can only take single HTML element.
+// JSX-JSX stands for JavaScript XML. JSX allows us to write HTML in React. JSX makes it easier to write and add HTML in React.
+// ReactDOM.render(What to show,Where to show)-
+// We can use the ReactDOM. render() in the application using the declaration of HTML code and the HTML element. The goal of this function is to represent the imposed HTML code within the specified HTML element tags. It helps to redirect the HTML page with the help of the render() function.
+// Render method can only take single HTML element.
 
-Babel-It is a JavaScript Compiler.
+// Babel-It is a JavaScript Compiler.
 
-Coding-
-https://codesandbox.io/s/introduction-to-jsx-forked-xsyslv?file=/src/index.js
+// Coding-
+// https://codesandbox.io/s/introduction-to-jsx-forked-xsyslv?file=/src/index.js
