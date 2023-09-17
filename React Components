@@ -1,0 +1,14 @@
+https://github.com/airbnb/javascript/tree/master/react
+
+In React, a component is a fundamental building block of a user interface. React is a JavaScript library for building user interfaces, and it encourages the development of applications using a modular and component-based approach. Components are reusable, self-contained, and can be composed together to build complex user interfaces.
+
+There are two main types of components in React:
+
+Functional Components: These are also known as stateless components or functional stateless components. They are defined as JavaScript functions and receive some props (properties) as input and return React elements as output. Functional components are primarily used for presenting UI and behavior that doesn't require state management.
+
+Class Components: These are also known as stateful components. Class components are JavaScript classes that extend the React.Component class. They have a render() method where you define the component's UI based on its current state and props. Class components are used when you need to manage and update the component's state.
+
+Note:- All components in React is start with a capital letter.
+
+CODE-
+https://codesandbox.io/s/react-components-forked-dxvyhx?file=/src/index.js
