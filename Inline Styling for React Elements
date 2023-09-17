@@ -1,0 +1,10 @@
+In js file style property require a value which is a JavaScript object with {} around it --> {{css style}}
+
+The css values has to be in string formate {propertyname:"value"} and there is two words in the property name then the first letter of second word should be capital letter which is called camelcase  --> fontSize:10px}
+
+CODE-
+https://codesandbox.io/s/inline-styling-in-jsx-forked-ksjttl
+
+
+
+
