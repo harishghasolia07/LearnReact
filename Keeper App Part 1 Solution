@@ -1,0 +1,4 @@
+whenever you use HTML attributes then can only be apply on the HTML elements ot on the custom created react elements.(like className="" can only apply on the HTML elements.)
+
+CODE-
+https://codesandbox.io/s/keeper-app-part-1-starting-forked-f7yfcl?file=/src/Components/Footer.jsx
