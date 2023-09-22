@@ -1,0 +1,5 @@
+Hooks Basic -- https://legacy.reactjs.org/docs/hooks-reference.html#usestate
+
+State - useState() -->  It has two values-[Initial State, Function]
+
+CODE-
