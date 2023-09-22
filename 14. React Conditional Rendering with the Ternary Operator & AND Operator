@@ -1,0 +1,7 @@
+Ternary Operator = CONDITION ? DO IF TRUE : DO IF FALSE
+
+&& in JS - (Expression && Expression)
+&& in React - (Condition && Expression)
+
+CODE-
+https://codesandbox.io/s/conditional-rendering-forked-xnfnx8?file=/src/components/App.jsx
