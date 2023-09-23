@@ -2,4 +2,4 @@ Hooks Basic -- https://legacy.reactjs.org/docs/hooks-reference.html#usestate
 
 State - useState() -->  It has two values-[Initial State, Function]
 
-CODE-
+CODE-https://codesandbox.io/s/usestate-hook-forked-8z3txr?file=/src/components/App.jsx
