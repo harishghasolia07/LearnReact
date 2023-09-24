@@ -1,2 +1,5 @@
+For Use Style in a HTML object use {{}} double bracket.
+Eg.<button style={{styling}}/>
+
 CODE-
-https://codesandbox.io/s/event-handling-in-react-forked-ys4mwr?file=/src/components/App.jsx
+https://codesandbox.io/s/event-handling-in-react-forked-shtsvc?file=/src/components/App.jsx
