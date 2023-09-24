@@ -1,0 +1,12 @@
+ Class Components vs. Functional Components --
+ 1.) Difference in defining - function required () but class not required ().
+ 2.) We can extend the class and import some another React module by using extend keyword this turn our class into React Component Class.
+
+ LINKS-
+ https://legacy.reactjs.org/docs/state-and-lifecycle.html
+ https://legacy.reactjs.org/docs/hooks-intro.html
+ https://legacy.reactjs.org/docs/hooks-faq.html#should-i-use-hooks-classes-or-a-mix-of-both
+
+ CODE-
+ https://codesandbox.io/s/class-components-vs-hooks-forked-zcff67?file=/src/index.js
+ 
