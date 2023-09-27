@@ -1,4 +1,8 @@
+Passing The Function --> function_name  
+Calling the function  --> function_name()  --> With () which mean calling the function.
+
 CODE-
-1.) Line-Through Version  --  https://codesandbox.io/s/managing-a-component-tree-forked-gs75cx?file=/src/components/ToDoItem.jsx
-2.) Delete Item Version  --  
+https://codesandbox.io/s/managing-a-component-tree-forked-gs75cx?file=/src/components/App.jsx
+1.) Line-Through Version  
+2.) Delete Item Version  
 
