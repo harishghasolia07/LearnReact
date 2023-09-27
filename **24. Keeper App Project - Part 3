@@ -1,0 +1,4 @@
+The default behaviour of buttons inside the forms is to reftresh the page for prevent this we need to pass a function which have { event.preventDefault() }.
+
+CODE-
+https://codesandbox.io/s/keeper-part-3-starting-forked-fvnpdl?file=/src/components/CreateArea.jsx
