@@ -32,9 +32,8 @@ We welcome contributions from the community! If you have any improvements, bug f
 
 2. Clone your forked repository to your local machine.
 
-
-
 ```bash
 git clone https://github.com/your-username/learn-react.git
 
+- **Create a new branch for your changes.**
 
