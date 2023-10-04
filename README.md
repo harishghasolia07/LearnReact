@@ -32,8 +32,13 @@ We welcome contributions from the community! If you have any improvements, bug f
 
 2. Clone your forked repository to your local machine.
 
+3. git checkout -b feature/your-feature-name
+
 ```bash
 git clone https://github.com/your-username/learn-react.git
 
-- **Create a new branch for your changes.**
+3. **Create a new branch for your changes.**
+
+git checkout -b feature/your-feature-name
+
 
